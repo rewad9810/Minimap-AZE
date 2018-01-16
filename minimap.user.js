@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Minimap-AZE
+// @name         Pixelcanvas Minimap
 // @namespace    http://tampermonkey.net/
 // @version      3.0
-// @description  Minimap-AZE
+// @description  Pixelcanvas Minimap
 // @author       Some Anon && Qh0stM4N
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
