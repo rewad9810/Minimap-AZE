@@ -15,7 +15,7 @@
 //ref:https://stackoverflow.com/questions/4604663/download-single-files-from-github
 //github raw file url  template
 //https://raw.githubusercontent.com/user/repository/branch/filename
-//https://raw.githubusercontent.com/viprewad9810/Azerbaijan-minimap/master/README.md
+//https://raw.githubusercontent.com/rewad9810/Azerbaijan-minimap/master/README.md
 
 window.baseTepmlateUrl = 'https://raw.githubusercontent.com/rewad9810/Minimap-AZE/master';
 
